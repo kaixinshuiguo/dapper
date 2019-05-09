@@ -42,3 +42,12 @@ C:\Users\Jeff\Downloads\Dappercrmdjt\Dapper从入门到精通\Dapper\Dapper\obj\
 C:\Users\Jeff\Source\Repos\Dapper\Dapper\bin\Debug\Dapper_Test.exe.config
 C:\Users\Jeff\Source\Repos\Dapper\Dapper\obj\Debug\Dapper_Test.exe
 C:\Users\Jeff\Source\Repos\Dapper\Dapper\obj\Debug\Dapper_Test.pdb
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper_Test.exe
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper_Test.pdb
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper.dll
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper.SimpleCRUD.dll
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper.pdb
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper.xml
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper.SimpleCRUD.pdb
+C:\Users\Jeff\Source\Repos\dapper\Dapper\bin\Debug\Dapper.SimpleCRUD.xml
+C:\Users\Jeff\Source\Repos\dapper\Dapper\obj\Debug\Dapper_Test.csprojResolveAssemblyReference.cache
